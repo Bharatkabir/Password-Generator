@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#inp{
+    width: 87%;
+}
+button{
+    height: 32px;
+    border-bottom-right-radius: 5px;
+}
+#div{
+    margin-top: 15px;
+}
